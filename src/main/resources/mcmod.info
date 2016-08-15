@@ -1,0 +1,12 @@
+[
+{
+  "modid": "com.kanomiya.mcmod.magic",
+  "name": "Magic",
+  "description": No description",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kanomiya/Magic",
+  "authorList": ["kanomiya"],
+  "dependencies": []
+}
+]
